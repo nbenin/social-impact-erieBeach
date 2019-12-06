@@ -1231,8 +1231,8 @@ article:last-child {
 }
 .image.featured {
   display: block;
-  width: 100%;
-  margin: 0 0 2em 0;
+  width: 60%;
+  margin: auto;
 }
 .image.fit {
   display: block;
