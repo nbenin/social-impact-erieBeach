@@ -1768,7 +1768,7 @@ button.alt:hover,
 #header {
   position: relative;
   margin: 0;
-  background-image: url("images/overlay.png"), url("../../images/header.jpg");
+  background-image: url("images/overlay.png"), url("../../images/Panorama.jpg");
   background-size: auto, cover;
   background-position: top left, center center;
   background-repeat: repeat, no-repeat;
@@ -1777,14 +1777,15 @@ button.alt:hover,
   color: #fff;
 }
 #header header h1 {
-  font-size: 2.25em;
+  font-size: 3em;
   line-height: 1.25em;
   margin-bottom: 0;
+  padding-bottom: 1.5em;
 }
 #header header p {
   margin-top: 1.25em;
   font-weight: 100;
-  padding: 0;
+  padding-top: 1em;
   font-size: 1.25em;
   line-height: 1.5em;
   text-align: center;
