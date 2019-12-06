@@ -2018,8 +2018,14 @@ button.alt:hover,
     font-size: 1.25em;
   }
 }
+/* My css stuff */
 .backToTop {
   text-align: center;
+}
+
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 /*# sourceMappingURL=main.css.map */
